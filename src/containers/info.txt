@@ -1,0 +1,1 @@
+esta carpeta sirve para almacenar los components mas grandes
